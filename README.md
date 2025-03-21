@@ -10,7 +10,6 @@
 ## 🛠️ Tech Stack
 - 💻 Python | Javascript 
 - 🤖 Machine Learning | Deep Learning
-- 📊 Data Analysis | Data Visualization
 
 ## 🌐 Connect with Me
 - 📧 Email: ivansholana@gmail.com
@@ -22,11 +21,3 @@
 
 ## 📈 GitHub Stats
 [![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanSholana&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Feel free to add more sections or customize it according to your preferences -->
-
-
-<!---
-IvanSholana/IvanSholana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
